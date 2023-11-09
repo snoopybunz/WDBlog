@@ -1,0 +1,53 @@
+header{
+    background-color: azure;
+    color: black;
+    padding: 20px;
+}
+
+.title{
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+h1{
+    color:dimgrey;
+    font-family: 'Abril Fatface', serif;
+}
+h2{
+    color:black;
+}
+
+h3 {
+    color:midnightblue; 
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px; 
+}
+
+li{
+    color:steelblue;
+    font-size: 20px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+p{
+    margin: 0px;
+    font-size:large;
+    color:black;
+}
+
+.container{
+    position: relative;
+    width: 100px; 
+    height: 500px;
+    padding: 30px;
+}
+
+.container img{
+    position: absolute;
+   
+}
+
