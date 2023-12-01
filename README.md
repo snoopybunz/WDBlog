@@ -1,3 +1,3 @@
 # WDBlog
 
-test
+weekly update on what i learnt!
